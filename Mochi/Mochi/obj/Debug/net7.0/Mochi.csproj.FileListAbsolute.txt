@@ -1,0 +1,15 @@
+D:\c sharp\Mochi\Mochi\bin\Debug\net7.0\Mochi.deps.json
+D:\c sharp\Mochi\Mochi\bin\Debug\net7.0\Mochi.runtimeconfig.json
+D:\c sharp\Mochi\Mochi\bin\Debug\net7.0\Mochi.gha
+D:\c sharp\Mochi\Mochi\bin\Debug\net7.0\Mochi.pdb
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.csproj.AssemblyReference.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.AssemblyInfoInputs.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.AssemblyInfo.cs
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.csproj.CoreCompileInputs.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.gha
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\refint\Mochi.gha
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.pdb
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.genruntimeconfig.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\ref\Mochi.gha
+D:\c sharp\Mochi\Mochi\obj\Debug\net7.0\Mochi.sourcelink.json

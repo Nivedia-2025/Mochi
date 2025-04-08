@@ -1,0 +1,10 @@
+D:\c sharp\Mochi\Mochi\bin\Debug\net48\Mochi.gha
+D:\c sharp\Mochi\Mochi\bin\Debug\net48\Mochi.pdb
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.csproj.AssemblyReference.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.AssemblyInfoInputs.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.AssemblyInfo.cs
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.csproj.CoreCompileInputs.cache
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.gha
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.pdb
+D:\c sharp\Mochi\Mochi\obj\Debug\net48\Mochi.sourcelink.json
